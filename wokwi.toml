@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/esp32c6-hello-world.elf"
+firmware = "build/esp32c6-hello-world.bin"
